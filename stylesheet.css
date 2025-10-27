@@ -1,0 +1,30 @@
+#header{
+    background-color: black;
+    color: #fff;
+    display: flex;
+    max width: 100%;
+}
+#select{
+    background-color: black;
+    color: #fff;
+    align-items: right;
+    text-align: right;
+    border: 0;
+}
+#div1{
+    display: inline;
+}
+#exc{
+    padding: 5%;
+}
+.button{
+    border: 0;
+    color:black;
+    background-color: #fff;
+}
+.hr{
+    color: #F5F5F5;
+}
+#div2{
+    display: inline;
+}
